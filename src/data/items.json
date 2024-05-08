@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Mackbook",
+        "price": 799.00,
+        "imgUrl": "/imgs/Laptop.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Book",
+        "price": 40.00,
+        "imgUrl":"/imgs/Book.webp"
+    },
+    {
+        "id": 3,
+        "name": "Fruits",
+        "price": 10.99,
+        "imgUrl":"/imgs/Fruits.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Suit",
+        "price": 299.00,
+        "imgUrl":"/imgs/suit.jpeg"
+    }
+]
